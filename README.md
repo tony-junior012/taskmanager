@@ -1,8 +1,8 @@
-# Task Manager 2
+# Sistema de Gerenciamento de Tarefas (Task Manager)
 
 ![Task Manager Logo](./assets/favicon.ico)
 
-Task Manager 2 é uma aplicação web voltada para o gerenciamento de tarefas, que permite criar, visualizar, atualizar e excluir tarefas de forma prática e organizada. O projeto utiliza tecnologias modernas no frontend e backend para oferecer uma experiência dinâmica e responsiva.
+O Task Manager é uma aplicação web voltada para o gerenciamento de tarefas, que permite criar, visualizar, atualizar e excluir tarefas de forma prática e organizada. O projeto utiliza tecnologias modernas no frontend e backend para oferecer uma experiência dinâmica e responsiva.
 
 ## 🛠️ Tecnologias Utilizadas
 
