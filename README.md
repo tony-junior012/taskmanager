@@ -153,5 +153,6 @@ Este projeto está sob a licença **MIT**.
 
 ![Task Manager Captura de Tela 1](./assets/captura3.jpeg)
 
+![Task Manager Captura de Tela 1](./assets/captura4.jpeg)
 
 ---
