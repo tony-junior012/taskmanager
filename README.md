@@ -1,6 +1,6 @@
 # Task Manager 2
 
-![Task Manager](https://via.placeholder.com/800x200?text=Task+Manager+Logo)
+![Task Manager Logo](./assets/favicon.ico)
 
 Task Manager 2 é uma aplicação web voltada para o gerenciamento de tarefas, que permite criar, visualizar, atualizar e excluir tarefas de forma prática e organizada. O projeto utiliza tecnologias modernas no frontend e backend para oferecer uma experiência dinâmica e responsiva.
 
@@ -147,6 +147,11 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 ## 🚀 Imagem Prévia
 
-![Task Manager](https://via.placeholder.com/800x200?text=Task+Manager+Logo)
+![Task Manager Captura de Tela 1](./assets/captura1.jpeg)
+
+![Task Manager Captura de Tela 1](./assets/captura2.jpeg)
+
+![Task Manager Captura de Tela 1](./assets/captura3.jpeg)
+
 
 ---
